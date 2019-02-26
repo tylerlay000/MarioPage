@@ -1,15 +1,34 @@
-#perLeftMargin{
-    height:200px;
-    width:35%;
-    margin-left:10%;
-    margin-right:10%;
-}
+
 
 #perRightMargin{
     height:200px;
     width:35%;
 }
 
-#dottedBorder{
-    border:3px dotted red;
+#padding{
+    padding:50px;
+}
+
+#topPadding{
+    padding-top: 50px;
+}
+#rightPadding{
+    padding-right: 50px;
+}
+#bottomPadding{
+    padding-bottom: 50px;
+}
+#leftPadding{
+    padding-left: 50px;
+}
+
+#solidBorder{
+    border:3px solid red;
+}
+
+body{
+    height:200px;
+    width:35%;
+    margin-left:10%;
+    margin-right:10%; h
 }
