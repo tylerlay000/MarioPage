@@ -6,7 +6,7 @@
 }
 
 #padding{
-    padding:50px;
+    padding:20px;
 }
 
 #topPadding{
@@ -23,12 +23,9 @@
 }
 
 #solidBorder{
-    border:3px solid red;
+    border:10px solid red;
 }
 
 body{
-    height:200px;
-    width:35%;
-    margin-left:10%;
-    margin-right:10%; h
+   
 }
